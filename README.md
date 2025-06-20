@@ -2,7 +2,7 @@
 This repository contains data that has been cleaned and transformed in excel and dashboard that has been created in excel.
 
 ---
-# ☕ Coffee Sales Dashboard – Excel Project Report
+# **Business** Coffee Sales Dashboard 2019-2022 – Excel Project Report
 
 ## 📚 Table of Contents
 - [🧩 Project Type](#-project-type)
