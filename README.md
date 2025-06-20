@@ -117,5 +117,16 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 * Sales seasonality or campaign promotions were not identified in the data.
 
 ---
+## 📁 Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| **Microsoft Excel** | Main tool used for data cleaning, transformation, and dashboard creation. |
+| **Pivot Tables** | Used to summarize sales data by country, customer, and coffee type. |
+| **Pivot Charts** | Visualized insights such as sales trends over time, top customers, and country performance. |
+| **Timeline Filter** | Enabled dynamic filtering of sales data by month/year (2019–2022). |
+| **Slicers** | Interactive filters for roast type, size, and loyalty card status. |
+| **Excel Formulas** | `VLOOKUP`, `INDEX-MATCH`, calculated fields to combine and enrich data from multiple tables. |
+| **Data Cleaning** | Formatting, removing duplicates, and enriching order data with customer and product attributes. |
 
 
