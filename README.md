@@ -33,15 +33,6 @@ This repository contains data that has been cleaned and transformed in excel and
 
 ---
 
-...
-
-## 📌 Project Description Summary
-A comprehensive Excel-based dashboard designed to analyze multi-year coffee sales data and extract actionable insights related to customer behavior, product performance, and geographic trends.
-
-...
-
-
----
 
 ## **Business** Coffee Sales Dashboard 2019–2022 Performance Insights Report
 
@@ -98,21 +89,26 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 ---
 ## 📊 Visual Summary
 
-### 📈 Sales Over Time (2019–2022)
-![Sales Over Time](path-to-your-image/sales_over_time.png)
+<p align="center">
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132651.png?raw=true" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132541.png?raw=true" alt="Screenshot 2" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="400"/>
+</p>
+### 🎛️ Interactive Filtering
 
-### 🌍 Sales by Country
-![Sales by Country](path-to-your-image/sales_by_country.png)
+The dashboard includes interactive slicers that allow users to:
+- Filter by **Roast Type** (Light, Medium, Dark)
+- Filter by **Package Size** (e.g., 0.2 kg, 1 kg, 2.5 kg)
+- Filter by **Loyalty Card Status**
+- Filter by **Time Period** using a timeline control
 
-### 👤 Top 5 Customers by Sales
-![Top Customers](path-to-your-image/top_customers.png)
-
-### 🧾 Loyalty Card Impact
-![Loyalty Sales Comparison](path-to-your-image/loyalty_comparison.png)
-
-### 📦 Product Performance by Size
-![Size Performance](path-to-your-image/product_size_performance.png)
-
+ **Insight Note:**  
+Although there is no dedicated chart for sales by roast type or size, key insights were discovered by **applying these filters during exploration**.  
+For example:
+- The **2.5 kg Light Roast** emerged as the top-performing product in both the US and Ireland.
+- Customers without loyalty cards contributed the highest total sales when filtered by country.
+These findings demonstrate the dashboard's ability to uncover trends through **exploratory analysis using slicers**, even without pre-built charts.
 
 ---
 
