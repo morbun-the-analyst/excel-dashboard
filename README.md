@@ -96,4 +96,4 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 ---
 
-Would you like me to now help you format this into a **LinkedIn post** or **GitHub README** next?
+
