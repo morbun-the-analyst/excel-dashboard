@@ -3,7 +3,7 @@ This repository contains data that has been cleaned and transformed in excel and
 
 ---
 
-## ☕ Coffee Sales Dashboard – Performance Insights Report
+## **business** Coffee Sales Dashboard 2019–2022 Performance Insights Report
 
 ### 📌 Project Description Summary
 
