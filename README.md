@@ -1,6 +1,28 @@
 # excel-dashboard
 This repository contains data that has been cleaned and transformed in excel and dashboard that has been created in excel.
 
+## 📚 Table of Contents
+- [📌 Project Description Summary](#-project-description-summary)
+- [📊 Project Overview](#-project-overview)
+- [🧠 Executive Summary](#-executive-summary)
+- [📂 Data Description](#-data-description)
+- [🧱 Customer Report ERD](#-customer-report-erd)
+- [🔍 Insights Deep Dive](#-insights-deep-dive)
+- [📊 Visualizations Included](#-visualizations-included)
+- [💡 Recommendations](#-recommendations)
+- [❓ Clarifying Questions](#-clarifying-questions)
+- [⚠️ Caveats](#-caveats)
+- [📁 Tools Used](#-tools-used)
+- [🧩 Project Type](#-project-type)
+
+---
+
+## 📌 Project Description Summary
+A comprehensive Excel-based dashboard designed to analyze multi-year coffee sales data and extract actionable insights related to customer behavior, product performance, and geographic trends.
+
+...
+
+
 ---
 
 ## **Business** Coffee Sales Dashboard 2019–2022 Performance Insights Report
