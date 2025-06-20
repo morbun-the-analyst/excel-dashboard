@@ -91,19 +91,28 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 | Insight Category        | Key Findings                                                                                                                                                                                                      |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Country Performance** | The USA contributed the highest total sales, followed by Ireland and the UK.                                                                                                                                      |
-| **Customer Loyalty**    | Non-loyalty card customers generated more revenue overall. For example, US non-loyalty customers drove more than \$16,465 in sales. In the UK, loyalty members generated only \$886 vs. \$1,912 from non-members. |
+| **Customer Loyalty**    | Non-loyalty card customers generated more revenue overall. For example, US non-loyalty customers drove more than \$19k in sales. In the UK, loyalty members generated only \$886 vs. \$1,912 from non-members. |
 | **Product Performance** | The **2.5 kg Light Roast** consistently outperformed all other size/roast combinations. The smallest 0.2 kg packages underperformed.                                                                              |
 | **Customer Segments**   | Among the top 5 customers, only **one** used a loyalty card — suggesting high-value customers may not see loyalty benefits.                                                                                       |
 
 ---
+## 📊 Visual Summary
 
-### 📊 Visualizations Included
+### 📈 Sales Over Time (2019–2022)
+![Sales Over Time](path-to-your-image/sales_over_time.png)
 
-* **Line Chart**: Sales over time by coffee type (monthly view from 2019–2022)
-* **Bar Chart**: Top 5 customers by total sales
-* **Bar Chart**: Sales by country
-* **Slicers**: Roast type, weight (size), loyalty card
-* **Timeline Filter**: Monthly period filter
+### 🌍 Sales by Country
+![Sales by Country](path-to-your-image/sales_by_country.png)
+
+### 👤 Top 5 Customers by Sales
+![Top Customers](path-to-your-image/top_customers.png)
+
+### 🧾 Loyalty Card Impact
+![Loyalty Sales Comparison](path-to-your-image/loyalty_comparison.png)
+
+### 📦 Product Performance by Size
+![Size Performance](path-to-your-image/product_size_performance.png)
+
 
 ---
 
