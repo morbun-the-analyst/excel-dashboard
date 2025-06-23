@@ -4,23 +4,23 @@ This repository contains data that has been cleaned and transformed in excel and
 ---
 # **Business** Coffee Sales Dashboard 2019-2022 – Excel Project Report
 
-## 📚 Table of Contents
-- [🧩 Project Type](#-project-type)
-- [📌 Project Description Summary](#-project-description-summary)
-- [📊 Project Overview](#-project-overview)
-- [🧠 Executive Summary](#-executive-summary)
-- [📂 Data Description](#-data-description)
-- [🧱 Customer Report ERD](#-customer-report-erd)
-- [🔍 Insights Deep Dive](#-insights-deep-dive)
-- [📊 Visualizations Included](#-visualizations-included)
-- [💡 Recommendations](#-recommendations)
-- [❓ Clarifying Questions](#-clarifying-questions)
-- [⚠️ Caveats](#-caveats)
-- [📁 Tools Used](#-tools-used)
+##  Table of Contents
+- [ Project Type](#-project-type)
+- [ Project Description Summary](#-project-description-summary)
+- [ Project Overview](#-project-overview)
+- [ Executive Summary](#-executive-summary)
+- [ Data Description](#-data-description)
+- [ Customer Report ERD](#-customer-report-erd)
+- [ Insights Deep Dive](#-insights-deep-dive)
+- [ Visualizations Included](#-visualizations-included)
+- [ Recommendations](#-recommendations)
+- [ Clarifying Questions](#-clarifying-questions)
+- [ Caveats](#-caveats)
+- [ Tools Used](#-tools-used)
 
 ---
 
-## 🧩 Project Type
+##  Project Type
 
 | Category | Description |
 |----------|-------------|
@@ -28,7 +28,6 @@ This repository contains data that has been cleaned and transformed in excel and
 | **Skill Areas** | Data Cleaning, Data Transformation, Dashboard Design, Exploratory Data Analysis |
 | **Tool** | Microsoft Excel |
 | **Data Size** | 1,000 records |
-| **Time Frame Covered** | 2019–2022 |
 | **Business Focus** | Sales performance tracking, customer segmentation, loyalty program analysis, product strategy |
 
 ---
@@ -36,13 +35,13 @@ This repository contains data that has been cleaned and transformed in excel and
 
 ## **Business** Coffee Sales Dashboard 2019–2022 Performance Insights Report
 
-### 📌 Project Description Summary
+###  Project Description Summary
 
 A business coffee sales dashboard built to analyze multi-year sales data and derive actionable insights on customer behavior, product performance, and country-level sales trends. The dashboard integrates data from three key tables — Orders, Customers, and Products — and enables interactive exploration using filters and slicers.
 
 ---
 
-### 📊 Project Overview
+###  Project Overview
 
 The business seeks to optimize sales performance and customer engagement across different regions (USA, Ireland, UK) from 2019–2022. To support strategic decisions, a dashboard was developed for the **Sales and Marketing Teams** to track key metrics such as:
 
@@ -54,13 +53,13 @@ The dashboard facilitates a detailed understanding of revenue drivers and produc
 
 ---
 
-### 🧠 Executive Summary
+###  Executive Summary
 
 From 2019 to 2022, the company generated significant coffee sales primarily from the USA and Ireland. Surprisingly, loyalty card holders contributed **less sales** overall compared to non-loyalty customers. The **2.5 kg Light Roast** emerged as the top-performing product variant in both the US and Ireland. Despite being part of a loyalty program, most high-value customers made purchases without using a loyalty card. These insights suggest a potential gap in the effectiveness of the loyalty program.
 
 ---
 
-### 📂 Data Description
+###  Data Description
 
 * **Orders Table**: Contains transaction-level data including date, coffee type, quantity, and unit price.
 * **Customers Table**: Includes customer names, countries, and loyalty card status.
@@ -69,7 +68,7 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 ---
 
-### 🧱 Customer Report ERD (Entity Relationship Description)
+###  Customer Report ERD (Entity Relationship Description)
 
 * **Customers** (1-to-many) → **Orders**
 * **Products** (1-to-many) → **Orders**
@@ -77,7 +76,7 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 ---
 
-### 🔍 Insights Deep Dive
+###  Insights Deep Dive
 
 | Insight Category        | Key Findings                                                                                                                                                                                                      |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -87,7 +86,7 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 | **Customer Segments**   | Among the top 5 customers, only **one** used a loyalty card — suggesting high-value customers may not see loyalty benefits.                                                                                       |
 
 ---
-## 📊 Visual Summary
+##  Visual Summary
 
 <p align="center">
   <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132651.png?raw=true" alt="Screenshot 1" width="400"/>
@@ -95,7 +94,7 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
   <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="400"/>
   <img src="https://github.com/morbun-the-analyst/Tableau-Dashboard/blob/main/visualization/Screenshot%202025-05-28%20132751.png?raw=true" alt="Screenshot 3" width="400"/>
 </p>
-### 🎛️ Interactive Filtering
+###  Interactive Filtering
 
 The dashboard includes interactive slicers that allow users to:
 - Filter by **Roast Type** (Light, Medium, Dark)
@@ -112,7 +111,7 @@ These findings demonstrate the dashboard's ability to uncover trends through **e
 
 ---
 
-### 💡 Recommendations
+###  Recommendations
 
 | Area                      | Recommendation                                                                                                                                                                         |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -124,7 +123,7 @@ These findings demonstrate the dashboard's ability to uncover trends through **e
 
 ---
 
-### ❓ Clarifying Questions for Stakeholders
+###  Clarifying Questions for Stakeholders
 
 * What are the current incentives offered through the loyalty card program?
 * Is there a communication or UX issue that discourages loyalty card use?
@@ -133,14 +132,14 @@ These findings demonstrate the dashboard's ability to uncover trends through **e
 
 ---
 
-### ⚠️ Caveats
+###  Caveats
 
 * The analysis is based solely on sales data. No cost or profit margin data was available to assess profitability.
 * Customer behavior beyond purchases (e.g., satisfaction, reviews, frequency) was not analyzed.
 * Sales seasonality or campaign promotions were not identified in the data.
 
 ---
-## 📁 Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
