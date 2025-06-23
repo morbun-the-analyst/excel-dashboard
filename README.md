@@ -90,8 +90,8 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 <p align="center">
   <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20overtime.png?raw=true" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20by%20country.png.png?raw=true" alt="Screenshot 2" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1.loyalty%20customer%20sales.png.png?raw=true" alt="Screenshot 3" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20by%20country.png?raw=true" alt="Screenshot 2" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1.loyalty%20customer%20sales.png?raw=true" alt="Screenshot 3" width="400"/>
   <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1non%20loyalty%20sales.png?raw=true" alt="Screenshot 3" width="400"/>
 
 </p>
