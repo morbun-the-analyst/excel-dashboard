@@ -90,9 +90,10 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 <p align="center">
   <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20overtime.png?raw=true" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/commit/3474fcd25b77f276180a815e4ad68801e68c66ed#diff-811c64216947cd5c1dfb254baf18383559b701a67ef37b935ec655ce8a692e97.png?raw=true" alt="Screenshot 2" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/commit/3474fcd25b77f276180a815e4ad68801e68c66ed#diff-0da9e03f7957fce01ad3e1f1e7722e700a8eebc13d08242637a61daeb8d2e7d6.png?raw=true" alt="Screenshot 3" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/commit/3474fcd25b77f276180a815e4ad68801e68c66ed#diff-6d71c6067cec77a9ae805ed8b86ef7337eb671307f7303aa978e62e6fe452a07.png?raw=true" alt="Screenshot 3" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20by%20country.png.png?raw=true" alt="Screenshot 2" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1.loyalty%20customer%20sales.png.png?raw=true" alt="Screenshot 3" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1non%20loyalty%20sales.png?raw=true" alt="Screenshot 3" width="400"/>
+
 </p>
 ###  Interactive Filtering
 
