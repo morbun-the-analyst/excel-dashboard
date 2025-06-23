@@ -87,14 +87,29 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 ---
 ##  Visual Summary
-
 <p align="center">
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20overtime.png?raw=true" alt="Screenshot 1" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20by%20country.png?raw=true" alt="Screenshot 2" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1.loyalty%20customer%20sales.png?raw=true" alt="Screenshot 3" width="400"/>
-  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1non%20loyalty%20sales.png?raw=true" alt="Screenshot 3" width="400"/>
-
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20overtime.png?raw=true" alt="Sales Over Time" width="400"/>
+  <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1sales%20by%20country.png?raw=true" alt="Sales by Country" width="400"/>
 </p>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <figure>
+        <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1.loyalty%20customer%20sales.png?raw=true" alt="Loyalty Customer Sales" width="400"/>
+        <figcaption><strong>Loyalty Customer Sales</strong></figcaption>
+      </figure>
+    </td>
+    <td align="center">
+      <figure>
+        <img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/1non%20loyalty%20sales.png?raw=true" alt="Non-Loyalty Customer Sales" width="400"/>
+        <figcaption><strong>Non-Loyalty Customer Sales</strong></figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
+
 ###  Interactive Filtering
 
 The dashboard includes interactive slicers that allow users to:
