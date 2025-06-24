@@ -127,7 +127,8 @@ These findings demonstrate the dashboard's ability to uncover trends through **e
 ---
 
 ### Dashboard Preview
-[Click The Link To See Excel dashboard and files](https://github.com/morbun-the-analyst/excel-dashboard/blob/main/Data%20and%20Dashboard/coffeeOrdersData.xlsx)
+
+- [Click The Link To See Excel dashboard and files](https://github.com/morbun-the-analyst/excel-dashboard/blob/main/Data%20and%20Dashboard/coffeeOrdersData.xlsx)
 ---
 
 ###  Recommendations
