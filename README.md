@@ -124,7 +124,10 @@ For example:
 - The **2.5 kg Light Roast** emerged as the top-performing product in both the US and Ireland.
 - Customers without loyalty cards contributed the highest total sales when filtered by country.
 These findings demonstrate the dashboard's ability to uncover trends through **exploratory analysis using slicers**, even without pre-built charts.
+---
 
+### Dashboard Preview
+[Click The Link To See Excel dashboard and files](https://github.com/morbun-the-analyst/excel-dashboard/blob/main/Data%20and%20Dashboard/coffeeOrdersData.xlsx)
 ---
 
 ###  Recommendations
