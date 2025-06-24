@@ -70,7 +70,7 @@ From 2019 to 2022, the company generated significant coffee sales primarily from
 
 ###  Customer Report ERD (Entity Relationship Description)
 
-<img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/Erd.png.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
+<img src="https://github.com/morbun-the-analyst/excel-dashboard/blob/main/visualization/Erd.png?raw=true" alt="Screenshot 2025-05-29 133428" width="300"/>
 
 
 * The `Orders` table serves as the fact table with keys linked to both Customers and Products for enriched analysis.
